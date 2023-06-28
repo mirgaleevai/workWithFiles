@@ -1,0 +1,10 @@
+{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red",
+    "items": [{
+        "productID": 1,
+        "price": 12.3
+    }
+     ]
+        }
